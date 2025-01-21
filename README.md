@@ -1,6 +1,6 @@
 # Hi there, I'm JVALPASS 👋
 
-🚀 **Robotics Enthusiast | Software Engineer | Humanoid Robotics Specialist**  
+🚀 **Robotics Enthusiast | Software Engineer**  
 🔭 Passionate about developing advanced navigation for humanoid robots.
 
 ---
