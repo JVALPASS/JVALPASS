@@ -38,5 +38,5 @@ Check out more projects on the [ADVRHumanoids organization page](https://github.
 
 ## 💼 Contact Me
 - 📫 Email: val1212.pass@gmail.com
-- 🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/valerio-passamano/)
+- 🔗 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/valerio-passamano/)
 ---
