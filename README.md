@@ -6,7 +6,7 @@
 ---
 
 ## 🌟 About Me
-- 🤖 Currently working on humanoid robotics and ROS2 navigation systems at IIT.
+- 🤖 Currently working on humanoid robotics and ROS2 navigation systems at IIT (Italian Institute of Technology).
 - 🛠️ Actively contributing to the [ADVRHumanoids organization](https://github.com/ADVRHumanoids).
 - 📘 Constantly learning and improving skills in robotics, CI/CD, and software development.
 
